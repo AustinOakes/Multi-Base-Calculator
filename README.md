@@ -5,8 +5,8 @@
 A calculator capable of handling **addition** and **subtraction** operations on numbers of bases between 2 & 36 inclusive. 
 
 #### Note:
-*Currently assumes input from the user in the correct format when entering number values* <br>
-*Also assumes that the number is able to be represented in the specified base, i.e. 10102 is not a binary number* <br>
+*Currently assumes input from the user in the correct format when entering number values*. <br>
+*Also assumes that the number is able to be represented in the specified base, i.e. 10102 is not a binary number*. <br>
 
 ## Commands
 
@@ -32,7 +32,6 @@ A calculator capable of handling **addition** and **subtraction** operations on 
 ## Future Implementations
   * Allowing for numbers with decimals (Also allowing for Multiplication and Division).
   * Verifying user input is in the correct formats.
-  
-  
+  <br>
   
   
