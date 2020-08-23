@@ -27,7 +27,7 @@ A calculator capable of handling **addition** and **subtraction** operations on 
   * Values are represented in the following format: value@base. Ex. 5@10 represent the number 5 in base 10.
   * The accumulator is represented as storage location $0.
   * When entering a value for a mathematical operation, you may use either a new value in the correct format or a storage location.
-  * When the base of the base of the calculator changes, it also converts all stored values to that base.
+  * When the base of the calculator changes, it also converts all stored values into that base.
   
 ## Future Implementations
   * Allowing for numbers with decimals (subsequently allowing for Multiplication and Division).
