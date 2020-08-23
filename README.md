@@ -2,7 +2,8 @@
 
 ## Description
 
-A calculator capable of handling **addition** and **subtraction** operations on numbers of bases between 2 & 36 inclusive. 
+A calculator capable of handling **addition** and **subtraction** operations on numbers of bases between 2 & 36 inclusive. <br>
+Created using C++ and Visual Studio.
 
 #### Note:
 *Currently assumes input from the user in the correct format when entering number values*. <br>
