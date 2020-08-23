@@ -30,7 +30,7 @@ A calculator capable of handling **addition** and **subtraction** operations on 
   * When the base of the base of the calculator changes, it also converts all stored values to that base.
   
 ## Future Implementations
-  * Allowing for numbers with decimals (Also allowing for Multiplication and Division).
+  * Allowing for numbers with decimals (subsequently allowing for Multiplication and Division).
   * Verifying user input is in the correct formats.
   <br>
   
